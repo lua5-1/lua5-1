@@ -1,3 +1,10 @@
+
+
+<div align="center">
+
+  <a href="https://discordapp.com/users/1093609255623475270" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/1093609255623475270.png"/></a>
+
+
 #### Programming Languages & Project Utilities
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
