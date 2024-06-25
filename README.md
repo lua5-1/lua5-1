@@ -1,10 +1,12 @@
-[#### Programming Languages & Project Utilities
+#### Programming Languages & Project Utilities
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoColor=white)
 
 #### Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-darkgreen?logo=LinuxMint&style=for-the-badge&logoColor=white)
 
 #### Runtimes
 
