@@ -2,7 +2,7 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-white?logo=Lua&style=for-the-badge&logoColor=darkblue)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=Lua&style=for-the-badge&logoColor=darkblue)
 
 #### Operating Systems
 
